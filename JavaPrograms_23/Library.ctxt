@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Library
+comment0.text=\ Define\ a\ class\ library\ to\ calculate\ a\ fine\ as\ per\ the\ given\ table\:\ *\r\n\ 1-5\ day\:\ 1.5rs\ p/day\r\n\ Next\ 5\ day\:\ 1.75rs\ p/day\r\n\ Rest\ of\ the\ day\:\ 2rs\ p/day\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2
