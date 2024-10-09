@@ -55,7 +55,7 @@ The project is organized into different folders, each focusing on a specific are
    - Learn how to declare and manipulate arrays.
    - Programs include sorting, searching (linear, binary), and basic operations on arrays.
 
-### 2. **Basic_Of_Basics** 🛠️
+### 2. **Fundamentals** 🛠️
    - Covers basic Java concepts like loops (`for`, `while`), conditional statements (`if-else`, `switch`), and simple input/output handling.
    
 ### 3. **IdentifyingNumberTypes** 🔢
