@@ -1,13 +1,11 @@
-import java.util.*;
-public class TestClass {
-   public static void main() {
-        Scanner sc = new Scanner(System.in);
-        // Accepting single character from scannner class: 
-        System.out.println("Enter a character: ");
-        char a = sc.next().charAt(0);
-        // Changing into uppercase character: 
-        char aUpper = Character.toUpperCase(a);
-        System.out.println("Character: "+a);
-        System.out.println("Uppercase: "+ aUpper);
+class TestClass {
+    public static void main() {
+        int i,j;
+        for(i = 1; i<=9; i+=2) {
+   for(j = i; j>=1; j-=2) {
+       System.out.print(j);
+   }
+  System.out.println();
+}
     }
 }

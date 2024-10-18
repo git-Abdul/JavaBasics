@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Overload
+comment1.params=x
+comment1.target=void\ series(int)
+comment2.params=a\ n
+comment2.target=void\ series(int,\ int)
+comment3.params=x\ a\ n
+comment3.target=void\ main(int,\ int,\ int)
+numComments=4

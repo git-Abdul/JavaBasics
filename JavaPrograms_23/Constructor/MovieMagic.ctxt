@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MovieMagic
+comment1.params=
+comment1.target=MovieMagic()
+comment2.params=y\ r\ t
+comment2.target=void\ input(int,\ float,\ java.lang.String)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

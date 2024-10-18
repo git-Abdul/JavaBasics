@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=HotelManagement
+comment1.params=
+comment1.target=void\ viewMenu()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ showStarters()
+comment3.params=
+comment3.target=void\ showMainCourse()
+comment4.params=
+comment4.target=void\ showDesserts()
+comment5.params=
+comment5.target=void\ Input()
+comment6.params=
+comment6.target=void\ checkoutProceed()
+comment7.params=
+comment7.target=void\ orderMore()
+comment8.params=n\ item
+comment8.target=void\ acceptPlateValue(int,\ java.lang.String)
+comment9.params=flag
+comment9.target=void\ handleBackToMenu(char)
+numComments=11
